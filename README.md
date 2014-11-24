@@ -5,7 +5,7 @@ A port of the popular game 2048 to the PSP made with Lua. Uses LPP (I think) as 
 It Has custom ICON0 and PIC1 in XMB.<br>
 Works with both <b>OFW</b> and <b>CFW</b> PSP's (<b>All</b> PSP models)<br>
 
-Created by Gabriele Cirulli. Based on 1024 by Veewo Studio and conceptually similar to Threes by Asher Vollmer.
+Original 2048 Created by Gabriele Cirulli. Based on 1024 by Veewo Studio and conceptually similar to Threes by Asher Vollmer. Port by Jasper Peters.
 
 
 Instalation:<br>
